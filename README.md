@@ -4,7 +4,7 @@
 
 #### Challenge Link :https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
-#### Live : https://sajedaalmanaseer.github.io/challenge/
+#### Live :https://github.com/sajedaalmanaseer/social-links-profile-main.git/
 
 #### The Result :
 
